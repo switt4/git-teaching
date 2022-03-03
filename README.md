@@ -7,6 +7,10 @@
 1. Launch binder via "launch binder" button in README.
 2. From binder interface, launch terminal.
 
+#### Configure Git
+1. git config --global user.email "you@example.com"
+2. git config --global user.name "Your Name"
+
 #### Basic Git Commands
 
 
