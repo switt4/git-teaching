@@ -17,6 +17,6 @@
 4. Authenticate Git with your GitHub credentials? **Yes**
 5. How would you like to authenticate GitHub CLI? **Login with a web browser**
 6. In a web browser on local machine (make sure you are already logged into GitHub): **https://github.com/login/device**
-7. Enter one-time code: **A0A0-A0A0**
+7. Enter one-time code, e.g.: **A0A0-A0A0**
 
 Note: When authenticating GitHub via Git on your local machine, it probably is better to create and use a personal access token (PAT).
