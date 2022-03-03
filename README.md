@@ -11,9 +11,6 @@
 1. git config --global user.email "you@example.com"
 2. git config --global user.name "Your Name"
 
-#### Basic Git Commands
-
-
 #### Authentic GitHub via Git command line interface.
 1. From terminal prompt type: **gh auth login**
 2. What account do you want to log into? **GitHub.com**
@@ -24,3 +21,8 @@
 7. Enter one-time code, e.g.: **A0A0-A0A0**
 
 Note: When authenticating GitHub via Git on your local machine, it probably is better to create and use a personal access token (PAT).
+
+#### Basic Git Commands
+
+#### Visualization Tool
+http://git-school.github.io/visualizing-git/
