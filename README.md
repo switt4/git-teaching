@@ -2,3 +2,5 @@
 
 # git-teaching
 teaching materials for intro to git basics
+
+gh auth login
