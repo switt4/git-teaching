@@ -3,6 +3,10 @@
 # git-teaching
 ## Teaching materials for intro to git basics
 
+#### Installing Git
+1. Install the source code directly: https://git-scm.com/downloads
+2. Install via conda/Anaconda: https://anaconda.org/anaconda/git 
+
 #### Getting Started
 1. Launch binder via "launch binder" button in README.
 2. From binder interface, launch terminal.
