@@ -23,7 +23,5 @@
 
 Note: When authenticating GitHub via Git on your local machine, it probably is better to create and use a personal access token (PAT).
 
-#### Basic Git Commands
-
 #### Visualization Tool
 http://git-school.github.io/visualizing-git/
