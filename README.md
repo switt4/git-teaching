@@ -29,3 +29,6 @@ Note: When authenticating GitHub via Git on your local machine, it probably is b
 
 #### Visualization Tool
 http://git-school.github.io/visualizing-git/
+
+#### Wiki with five step-by-step lessons covering the main git functionality
+https://github.com/switt4/git-teaching/wiki
