@@ -10,6 +10,7 @@
 #### Configure Git
 1. git config --global user.email "you@example.com"
 2. git config --global user.name "Your Name"
+3. git config --global init.defaultBranch main
 
 #### Authentic GitHub via Git command line interface.
 1. From terminal prompt type: **gh auth login**
