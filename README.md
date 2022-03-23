@@ -13,6 +13,6 @@ https://github.com/switt4/git-teaching/wiki
 #### Visualization Tool
 http://git-school.github.io/visualizing-git/
 
-#### Installing Git
+#### Resources for installing Git locally
 1. Install the source code directly: https://git-scm.com/downloads
 2. Install via conda/Anaconda: https://anaconda.org/anaconda/git 
